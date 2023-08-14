@@ -1,6 +1,6 @@
 @font-face {
 font-family:"Ubuntu";
-src: url("https://mellomuffin.github.io/main/fonts/ubuntu-regular.ttf") format("truetype");
+src: url("fonts/ubuntu-regular.ttf") format("truetype");
 }
 body {
 background-color: #4e7cc7
