@@ -7,7 +7,7 @@
             url("fonts/Ubuntu-BoldItalic.ttf") font-style: bolditalic;
         }
         body {background-color:#191b28; font-family: Ubuntu;}
-        h1 {color:#826dae; font-size: 80px; text-align: center; border: 3px #826dae;}
+        h1 {color:#826dae; font-size: 80px; border: 3px #826dae;}
         p {color:#57d3a3; font-size: 30px;}
         summary {color:#57d3a3; font-size: 30px;}
         a {color:#e5a4a2; font-size: 25px;}
