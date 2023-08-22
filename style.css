@@ -6,8 +6,30 @@
             url("fonts/Ubuntu-Bold.ttf") font-style: bold;
             url("fonts/Ubuntu-BoldItalic.ttf") font-style: bolditalic;
         }
-        body {background-color:#191b28; font-family: Ubuntu;}
-        h1 {color:#826dae; font-size: 80px; border: 3px #826dae;}
-        p {color:#57d3a3; font-size: 30px;}
-        summary {color:#57d3a3; font-size: 30px;}
-        a {color:#e5a4a2; font-size: 25px;}
+body {background-color:#191b28; font-family: Ubuntu;}
+h1 {color:#826dae; font-size: 80px; border: 3px #826dae;}
+p {color:#57d3a3; font-size: 30px;}
+summary {color:#57d3a3; font-size: 30px;}
+a {color:#e5a4a2; font-size: 25px;}
+.topnav {
+  overflow: hidden;
+  background-color: ##E39292;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
